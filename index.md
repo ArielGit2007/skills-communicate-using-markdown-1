@@ -10,3 +10,8 @@ Nombre="Ariel"
 print(f"Hola {Nombre}, como te va?")
 
 ```
+
+### Listas
+- [ ] Aprender todas las virtudes de git y gitHub
+- [ ] Desenvolverme como un gran programador
+- [ ] Darme a conocer en el medio
